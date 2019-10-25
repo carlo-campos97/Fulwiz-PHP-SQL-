@@ -1,0 +1,17 @@
+if(check if the button is clicked){
+    if(check if one of the fields is empty){
+        if(firstname is empty){
+            echo "firstname is empty"l
+        }
+        if (is last empty?){
+            echo "lastname is empty;
+        }
+        echo "go back to add.php"
+    }
+    else{
+        sql quries
+    }
+}
+else{
+    go back to add.php
+}
